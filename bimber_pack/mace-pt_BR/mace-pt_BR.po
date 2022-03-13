@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MediaAce\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thiago Lins <falecom@thiagolins.dev.br>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "YouTube App Key"
+msgstr "Chave de aplicativo do YouTube"
+
+msgid "MediaAce Settings"
+msgstr "Configurações do MediaAce"
+
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+msgid "Used, for example, for Video Playlist YouTube videos."
+msgstr ""
+"Usado, por exemplo, para vídeos do YouTube da lista de reprodução de vídeo."
+
+msgid "Back to slideshow"
+msgstr "Voltar para apresentação de slides"
+
+msgid "Empty gallery. Add some images."
+msgstr "Galeria vazia. Adicione algumas imagens."
+
+msgid "View Gallery"
+msgstr "Veja a galeria"
+
+msgid "%s image"
+msgid_plural "%s images"
+msgstr[0] "%s imagem"
+msgstr[1] "%s imagens"
+
+msgid "Empty list. None of video urls could be loaded."
+msgstr "Lista vazia. Nenhum dos URLs de vídeo pôde ser carregado."
+
+msgid ""
+"The playlist could not be displayed, please make sure that YouTube API key "
+"is set in the settings."
+msgstr ""
+"A lista de reprodução não pôde ser exibida. Verifique se a chave da API do "
+"YouTube está definida nas configurações."
+
+msgid "MediaAce"
+msgstr "MediaAce"
+
+msgid "0 to not repeat"
+msgstr "0 para não repetir"
+
+msgid "Gallery Type"
+msgstr "Tipo de galeria"
+
+msgid "Standard"
+msgstr "Padrão"
+
+msgid "Lightbox"
+msgstr "Caixa de luz"
+
+msgid "Gallery Title"
+msgstr "Título da Galeria"
+
+msgid "of"
+msgstr "de"
+
+msgid "Expiry Headers Enabled?"
+msgstr "Cabeçalhos de expiração ativados?"
+
+msgid ".htaccess content"
+msgstr "conteúdo .htaccess"
+
+msgid "Enabled?"
+msgstr "Habilitado?"
+
+msgid "Access allowed for URLs"
+msgstr "Acesso permitido para URLs"
+
+msgid "Block direct access to these files"
+msgstr "Bloqueie o acesso direto a esses arquivos"
+
+msgid "Direct requests"
+msgstr "Solicitações diretas"
+
+msgid "Redirect blocked request to this URL"
+msgstr "Redirecionar solicitação bloqueada para este URL"
+
+msgid "Regular expressions allowed."
+msgstr "Expressões regulares permitidas."
+
+msgid "Space-separated list of file extensions"
+msgstr "Lista de extensões de arquivo separadas por espaço"
+
+msgid ""
+"Some visitors uses a personal firewall or antivirus program, that deletes "
+"the page referer information sent by the web browser. Hotlink protection is "
+"based on this information. If you choose not to allow direct requests, you "
+"will block these users. You will also prevent people from directly accessing "
+"an image by typing in the URL in their browser."
+msgstr ""
+"Alguns visitantes usam um firewall pessoal ou programa antivírus, que exclui "
+"as informações de referência da página enviadas pelo navegador da web. A "
+"proteção de hotlink é baseada nesta informação. Se você optar por não "
+"permitir solicitações diretas, bloqueará esses usuários. Você também "
+"impedirá que as pessoas acessem diretamente uma imagem digitando a URL no "
+"navegador."
+
+msgid "We recommend to check this option."
+msgstr "Recomendamos marcar esta opção."
+
+msgid "Leave blank to use default image."
+msgstr "Deixe em branco para usar a imagem padrão."
+
+msgctxt "Settings tab title"
+msgid "Video"
+msgstr "Vídeo"
+
+msgctxt "Setting page title"
+msgid "Video"
+msgstr "Vídeo"
+
+msgctxt "Setting title"
+msgid "Auto video length"
+msgstr "Duração automática do vídeo"
+
+msgctxt "Settings page description"
+msgid "Common video tasks."
+msgstr "Tarefas de vídeo comuns."
+
+msgctxt "Setting description"
+msgid ""
+"Fetch and store video length when video post format is creating and updating."
+msgstr ""
+"Busque e armazene a duração do vídeo quando o formato de postagem de vídeo "
+"estiver sendo criado e atualizado."
+
+msgctxt "YouTube invalid key message"
+msgid ""
+"For YouTube videos, you have to provide YouTube App Key in the Settings tab."
+msgstr ""
+"Para vídeos do YouTube, você deve fornecer a chave de aplicativo do YouTube "
+"na guia Configurações."
+
+msgid "Self-hosted video url %s is not a valid attachment url!"
+msgstr "O URL de vídeo auto-hospedado %s não é um URL de anexo válido!"
+
+msgid "YouTube video url %s is not valid!"
+msgstr "O URL do vídeo do YouTube %s não é válido!"
+
+msgid "YouTube video %s not found!"
+msgstr "Vídeo do YouTube %s não encontrado!"
+
+msgid "Video %s not loaded. YouTuba API key is not set."
+msgstr "Vídeo %s não carregado. A chave da API do YouTuba não está definida."
+
+msgid "Please set the API key in plugin settings."
+msgstr "Defina a chave da API nas configurações do plug-in."
+
+msgid "Vimeo video url %s is not valid!"
+msgstr "O URL do vídeo do Vimeo %s não é válido!"
+
+msgid "Vimeo video %s not found!"
+msgstr "Vídeo do Vimeo %s não encontrado!"
+
+msgid "Replace Images"
+msgstr "Substituir imagens"
+
+msgid "Image Bulk Replace"
+msgstr "Substituir imagem em massa"
+
+msgid "Replace multiple images"
+msgstr "Substituir várias imagens"
+
+msgid "Choose images to replace"
+msgstr "Escolha imagens para substituir"
+
+msgid "Choose to insert (filenames must match)"
+msgstr "Escolha inserir (os nomes dos arquivos devem corresponder)"
+
+msgid "Replace images"
+msgstr "Substituir imagens"
+
+msgid "Pick"
+msgstr "Escolher"
+
+msgid "Start"
+msgstr "Começar"
+
+msgid "Hotlink Protection"
+msgstr "Proteção de Hotlink"
+
+msgid "Configure Hotlink Protection"
+msgstr "Configurar proteção de hotlink"
+
+msgid "Test protection"
+msgstr "Proteção de teste"
+
+msgid ""
+"Protect your bandwidth by preventing other sites from using images hosted on "
+"your site."
+msgstr ""
+"Proteja sua largura de banda impedindo que outros sites usem imagens "
+"hospedadas em seu site."
+
+msgid ""
+"Please use the global multisite settings to set up the hotlink protection "
+"for the whole multisite."
+msgstr ""
+"Use as configurações globais de multisite para configurar a proteção de "
+"hotlink para todo o multisite."
+
+msgid "To make sure that hotlink protection works correct, do as follows:"
+msgstr ""
+"Para garantir que a proteção de hotlink funcione corretamente, faça o "
+"seguinte:"
+
+msgid "Uncheck the \"Direct requests\" option above and save changes."
+msgstr ""
+"Desmarque a opção \"Solicitações diretas\" acima e salve as alterações."
+
+msgid ""
+"Clear your browser cache (it is enough to purge the Cached Images and Files)."
+msgstr ""
+"Limpe o cache do seu navegador (basta limpar as imagens e arquivos em cache)."
+
+msgid "Copy url of any of your images."
+msgstr "Copie o URL de qualquer uma de suas imagens."
+
+msgid "Open that url in new browser tab (or window)."
+msgstr "Abra esse URL em uma nova guia do navegador (ou janela)."
+
+msgid ""
+"You should be redirected to the \"Redirect blocked request to this URL\" (if "
+"set) or see forbidden page (if url not set)."
+msgstr ""
+"Você deve ser redirecionado para \"Redirecionar solicitação bloqueada para "
+"este URL\" (se definido) ou ver a página proibida (se o URL não estiver "
+"definido)."
+
+msgid "After finishing, restore the \"Direct requests\" option."
+msgstr "Após terminar, restaure a opção \"Solicitações diretas\"."
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Logo"
+msgstr "Logotipo"
+
+msgid "Logo HDPI"
+msgstr "Logo HDPI"
+
+msgid "Lightbox skin"
+msgstr "Tema da caixa de luz"
+
+msgid "Sidebar thumbnails"
+msgstr "Miniaturas da barra lateral"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Select Image"
+msgstr "Selecionar imagem"
+
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+msgid ""
+"Don't load images and embeds until the point at which they are really needed"
+msgstr ""
+"Não carregue imagens e incorporações até o ponto em que elas são realmente "
+"necessárias"
+
+msgid "Lazy load images"
+msgstr "Lazy load em imagens"
+
+msgid "Load image with unveilling effects"
+msgstr "Carregar imagem com efeitos de revelação"
+
+msgid "Lazy load embeds"
+msgstr "Lazy load em itens encorporados"
+
+msgid "For embeds that use iframe embed method (like YouTube or Instagram)."
+msgstr ""
+"Para incorporações que usam o método de incorporação de iframe (como YouTube "
+"ou Instagram)."
+
+msgid "Featured Images"
+msgstr "Imagens em destaque"
+
+msgid "Default featured image"
+msgstr "Imagem em destaque padrão"
+
+msgid "Auto download embed featured images"
+msgstr "Download automático incorporar imagens em destaque"
+
+msgid "Image not found."
+msgstr "Imagem não encontrada."
+
+msgid "Invalid image."
+msgstr "Imagem inválida."
+
+msgid "The original image file cannot be found."
+msgstr "O arquivo de imagem original não pode ser encontrado."
+
+msgid "Metadata was not generated properly."
+msgstr "Os metadados não foram gerados corretamente."
+
+msgid "Regenerate thumbnails for this image"
+msgstr "Regenerar miniaturas para esta imagem"
+
+msgid "Regenerate Thumbnails"
+msgstr "Regenerar Miniaturas"
+
+msgid "Couldn't find any images."
+msgstr "Não foi possível encontrar nenhuma imagem."
+
+msgid "Image Bulk Actions"
+msgstr "Ações em massa de imagem"
+
+msgid "Process all images at once"
+msgstr "Processe todas as imagens de uma vez"
+
+msgid "Add Watermarks"
+msgstr "Adicionar marcas d'água"
+
+msgid "Remove Watermarks"
+msgstr "Remover marcas d'água"
+
+msgid ""
+"Create thumbnails based on defined %s and clean up disk from old unused "
+"files. This process can take a lot of time (and server CPU/memory) and have "
+"to be run with caution."
+msgstr ""
+"Crie miniaturas com base em %s definidos e limpe o disco de arquivos antigos "
+"não utilizados. Esse processo pode levar muito tempo (e CPU/memória do "
+"servidor) e deve ser executado com cautela."
+
+msgid "Image Sizes"
+msgstr "Tamanhos de imagem"
+
+msgid "Processing files..."
+msgstr "Processando arquivos..."
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid ""
+"Please be patient while the process can take a while (depends on your server "
+"resources)."
+msgstr ""
+"Por favor, seja paciente enquanto o processo pode demorar um pouco (depende "
+"dos recursos do seu servidor)."
+
+msgid "To process"
+msgstr "Para processar"
+
+msgid "Processed"
+msgstr "Processado"
+
+msgid "Success"
+msgstr "Sucesso"
+
+msgid "Failed"
+msgstr "Malsucedido"
+
+msgid "Image list ready."
+msgstr "Lista de imagens pronta."
+
+msgid "Image thumbnails regenerated."
+msgstr "Miniaturas de imagem regeneradas."
+
+msgid "Watermarks added."
+msgstr "Marcas d'água adicionadas."
+
+msgid "Watermarks removed."
+msgstr "Marcas d'água removidas."
+
+msgid "GIF to MP4"
+msgstr "GIF para MP4"
+
+msgid "GIF to MP4 Conversion"
+msgstr "Conversão de GIF para MP4"
+
+msgid "Cloud Convert API Key"
+msgstr "Chave da API Cloud Convert"
+
+msgid "Store MP4 files"
+msgstr "Armazenar arquivos MP4"
+
+msgid "Amazon S3 Access Key ID"
+msgstr "ID da chave de acesso do Amazon S3"
+
+msgid "Amazon S3 Access Key"
+msgstr "Chave de acesso do Amazon S3"
+
+msgid "Amazon S3 Bucket"
+msgstr "Amazon S3 Bucket"
+
+msgid ""
+"The plugin uses the %s service for GIF to MP4 on the fly conversion. "
+"CloudConvert can be used absolutely free! Nevertheless, if your usage "
+"exceeds free plan, you will need to choose one of prepaid packages and "
+"subscriptions."
+msgstr ""
+"O plug-in usa o serviço %s para conversão de GIF para MP4 em tempo real. "
+"CloudConvert pode ser usado absolutamente grátis! No entanto, se o uso "
+"exceder o plano gratuito, você precisará escolher um dos pacotes e "
+"assinaturas pré-pagos."
+
+msgid ""
+"Your API key can be found in the Dashboard section of your CloudConvert "
+"account."
+msgstr ""
+"Sua chave de API pode ser encontrada na seção Painel de sua conta do "
+"CloudConvert."
+
+msgid "on disk"
+msgstr "no disco"
+
+msgid "on Amazon S3"
+msgstr "no Amazon S3"
+
+msgid "This image size can't be deleted!"
+msgstr "Este tamanho de imagem não pode ser excluído!"
+
+msgid "This image size can't be activated!"
+msgstr "Este tamanho de imagem não pode ser ativado!"
+
+msgid "This image size not exists!"
+msgstr "Este tamanho de imagem não existe!"
+
+msgid "Manage Image Sizes"
+msgstr "Gerenciar tamanhos de imagem"
+
+msgid ""
+"After editing or adding an image size, you have to %s to apply changes to "
+"all existing images."
+msgstr ""
+"Após editar ou adicionar um tamanho de imagem, você deve %s para aplicar as "
+"alterações em todas as imagens existentes."
+
+msgid "New image size"
+msgstr "Novo tamanho de imagem"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Crop"
+msgstr "Cortar"
+
+msgid "Crop X"
+msgstr "Cortar X"
+
+msgid "Crop Y"
+msgstr "Cortar Y"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Center"
+msgstr "Centralizar"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Top"
+msgstr "Superior"
+
+msgid "Bottom"
+msgstr "Inferior"
+
+msgid "Image size saved."
+msgstr "Tamanho da imagem salvo."
+
+msgid "Image size deleted."
+msgstr "Tamanho da imagem excluído."
+
+msgid "Image size activated."
+msgstr "Tamanho da imagem ativado."
+
+msgid "Expire Headers"
+msgstr "Expirar cabeçalhos"
+
+msgid "Configure Expire Headers"
+msgstr "Configurar cabeçalhos de expiração"
+
+msgid "Leverage browser cache to improve performance."
+msgstr "Aproveite o cache do navegador para melhorar o desempenho."
+
+msgid ""
+"Please use the global multisite settings to set up the expiry headers for "
+"the whole multisite."
+msgstr ""
+"Use as configurações globais de multisite para configurar os cabeçalhos de "
+"expiração para todo o multisite."
+
+msgid "Backup file missing."
+msgstr "Arquivo de backup ausente."
+
+msgid "Add watermarks for this image"
+msgstr "Adicionar marcas d'água para esta imagem"
+
+msgid "Remove watermarks from this image"
+msgstr "Remover marcas d'água desta imagem"
+
+msgid "Allow watermarking for this image"
+msgstr "Permitir marca d'água para esta imagem"
+
+msgid "Allow Watermarking"
+msgstr "Permitir marca d'água"
+
+msgid "Exclude this image from Watermarking"
+msgstr "Excluir esta imagem da marca d'água"
+
+msgid "Exclude from Watermarking"
+msgstr "Excluir da marca d'água"
+
+msgid "Watermarks"
+msgstr "Marcas d'água"
+
+msgid "Image Watermark"
+msgstr "Marca d'água da imagem"
+
+msgid "Watermark image"
+msgstr "Imagem de marca d'água"
+
+msgid "Position on image"
+msgstr "Posição na imagem"
+
+msgid "Opacity"
+msgstr "Opacidade"
+
+msgid "Advanced options"
+msgstr "Opções avançadas"
+
+msgid "Image sizes"
+msgstr "Tamanhos de imagem"
+
+msgid "Scale"
+msgstr "Régua"
+
+msgid "Offset"
+msgstr "Desvio"
+
+msgid ""
+"Add your logo, stamp or signature to images to protect them and indicate "
+"your ownership."
+msgstr ""
+"Adicione seu logotipo, carimbo ou assinatura às imagens para protegê-las e "
+"indicar sua propriedade."
+
+msgid "To apply watermarks to all existing images, use the %s bulk tool."
+msgstr ""
+"Para aplicar marcas d'água a todas as imagens existentes, use a ferramenta "
+"em massa %s."
+
+msgid "Apply Watermarks"
+msgstr "Aplicar marcas d'água"
+
+msgid "Choose sizes to be watermarked"
+msgstr "Escolha os tamanhos a serem marcados com marca d'água"
+
+msgid "Scale of watermark in relation to image."
+msgstr "Escala da marca d'água em relação à imagem."
+
+msgid ""
+"Move watermark from image edges. Does not apply for the \"center center\" "
+"position."
+msgstr ""
+"Mova a marca d'água das bordas da imagem. Não se aplica à posição \"centro "
+"central\"."
+
+msgid "Keep copy of original images to be able to remove watermarks."
+msgstr "Mantenha cópia das imagens originais para poder remover marcas d'água."
+
+msgid "To remove watermarks from all existing images, use the %s bulk tool."
+msgstr ""
+"Para remover marcas d'água de todas as imagens existentes, use a ferramenta "
+"em massa %s."
+
+msgid "Image excluded."
+msgstr "Imagem excluída."
+
+msgid "Image included."
+msgstr "Imagem incluída."
+
+msgid "Width (px)"
+msgstr "Largura (px)"
+
+msgid "Height (px)"
+msgstr "Altura (px)"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "In use"
+msgstr "Em uso"
+
+msgid "All (%d)"
+msgstr "Todos (%d)"
+
+msgid "Activated (%d)"
+msgstr "Ativado (%d)"
+
+msgid "Deactivated (%d)"
+msgstr "Desativado (%d)"
+
+msgid "activated"
+msgstr "ativado"
+
+msgid "deactivated"
+msgstr "desativado"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "yes"
+msgstr "sim"
+
+msgid "unknown"
+msgstr "desconhecido"
+
+msgctxt "Image Sizes settings"
+msgid "check"
+msgstr "Verifica"
+
+msgid "Quick Edit"
+msgstr "Edição rápida"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Deactivate"
+msgstr "Desativar"
+
+msgid "Activate"
+msgstr "Ativar"
+
+msgid "Filter by group"
+msgstr "Filtrar por grupo"
+
+msgid "All groups"
+msgstr "Todos os grupos"
+
+msgid "Watermark not applied."
+msgstr "Marca d'água não aplicada."
+
+msgid "Your media assistant"
+msgstr "Seu assistente de mídia"
+
+msgid "bringthepixel"
+msgstr "bringthepixel"
+
+msgid "http://www.bringthepixel.com"
+msgstr "http://www.bringthepixel.com"
