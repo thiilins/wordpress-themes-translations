@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdsAce\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thiago Lins <falecom@thiagolins.dev.br>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "Admin UI"
+msgid "Clear"
+msgstr "Limpar"
+
+msgctxt "Admin UI"
+msgid "Start typing..."
+msgstr "Começe a digitar..."
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "AdBlocker detection status"
+msgid "detected"
+msgstr "detectado"
+
+msgid ""
+"To use the AdAce plugin, the below option \"Rewrite plugin name\" has to be "
+"enabled"
+msgstr ""
+"Para usar o plugin AdAce, a opção abaixo \"Rewrite plugin name\" deve estar "
+"habilitada"
+
+msgctxt "AdBlocker detection status"
+msgid "not detected"
+msgstr "não detectado"
+
+msgctxt "Advanced settings tab"
+msgid ""
+"You are using multisite so you have to manually add the following to your "
+"%1$s file in %2$s, at the beginning:"
+msgstr ""
+"Você está usando multisite, então você precisa adicionar manualmente o "
+"seguinte ao seu arquivo %1$s em %2$s, no início:"
+
+msgctxt "Advanced settings tab"
+msgid "You use Nginx server. You have to apply the steps below"
+msgstr "Você usa o servidor Nginx. Você deve aplicar os passos abaixo"
+
+msgctxt "Advanced settings tab"
+msgid ""
+"With Nginx there is no directory-level configuration file like Apache’s ."
+"htaccess or IIS’s web.config files. All configuration has to be done at the "
+"server level by an administrator, and WordPress cannot modify the "
+"configuration, like it can with Apache or IIS."
+msgstr ""
+"Com o Nginx não há arquivo de configuração em nível de diretório como os "
+"arquivos .htaccess do Apache ou web.config do IIS. Toda a configuração deve "
+"ser feita no nível do servidor por um administrador, e o WordPress não pode "
+"modificar a configuração, como no Apache ou IIS."
+
+msgctxt "Advanced settings tab"
+msgid ""
+"To rewrite the plugin name, you have to ask your administrator to add "
+"manually the below rewrite rules to your Nginx configuration file, in any "
+"server {} block."
+msgstr ""
+"Para reescrever o nome do plug-in, você precisa pedir ao administrador para "
+"adicionar manualmente as regras de reescrita abaixo ao arquivo de "
+"configuração do Nginx, em qualquer bloco {} do servidor."
+
+msgid "Disclosure"
+msgstr "Divulgação"
+
+msgid "Adblock Detector"
+msgstr "Detector de Adblock"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Disabled"
+msgstr "Desativado"
+
+msgid "--none--"
+msgstr "--Nenhum--"
+
+msgid "AdAce"
+msgstr "AdAce"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+msgid "Ad Slots"
+msgstr "Espaços de anúncio"
+
+msgid "Ad Free"
+msgstr "Anúncio grátis"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "AdAce Options"
+msgstr "Opções do AdAce"
+
+msgid ""
+"Options here are bound to the user session. You need to log out and in to "
+"apply them"
+msgstr ""
+"As opções aqui estão vinculadas à sessão do usuário. Você precisa sair e "
+"entrar para aplicá-los"
+
+msgid "Log-In Based"
+msgstr "Baseado em login"
+
+msgid "Disable ads for logged-in users"
+msgstr "Desativar anúncios para usuários conectados"
+
+msgid "Disable ads for users with roles"
+msgstr "Desativar anúncios para usuários com funções"
+
+msgid "WooCommerce Plugin Integration"
+msgstr "Integração de plugins WooCommerce"
+
+msgctxt "WooCommerce Integration"
+msgid "Product"
+msgstr "Produto"
+
+msgid "Restrict Content Pro Plugin Integration"
+msgstr "Restringir a integração do plug-in do Content Pro"
+
+msgctxt "Restrict Content Pro Integration"
+msgid "Membership Levels"
+msgstr "Níveis de associação"
+
+msgid "You can select many."
+msgstr "Você pode selecionar muitos."
+
+msgctxt "WooCommerce Integration"
+msgid "Disable ads for all users who bought that product."
+msgstr ""
+"Desative os anúncios para todos os usuários que compraram esse produto."
+
+msgctxt "WooCommerce Integration"
+msgid ""
+"Disable ads for all users with the selected membership levels. You can "
+"select many."
+msgstr ""
+"Desative os anúncios para todos os usuários com os níveis de associação "
+"selecionados. Você pode selecionar muitos."
+
+msgctxt "Restrict Content Pro Integration"
+msgid ""
+"No levels are available. Please add levels in WP Dashboard > Restrict > "
+"Membership Levels."
+msgstr ""
+"Não há níveis disponíveis. Adicione níveis em WP Dashboard > Restringir > "
+"Níveis de associação."
+
+msgid "Shoppable Images"
+msgstr "Imagens compráveis"
+
+msgid "Enable"
+msgstr "Ativar"
+
+msgid "Disable"
+msgstr "desativar"
+
+msgid "Shop the Post"
+msgstr "Compre o Correio"
+
+msgid "Various"
+msgstr "Vários"
+
+msgid "Ad"
+msgstr "Anúncios"
+
+msgid "Ad Group"
+msgstr "Grupo de anúncios"
+
+msgid "Don't repeat ads"
+msgstr "Não repita anúncios"
+
+msgid "Override Ad On Tablet"
+msgstr "Substituir anúncio no tablet"
+
+msgid "Override Ad On Mobile"
+msgstr "Substituir anúncio no celular"
+
+msgid "Override Ad On AMP"
+msgstr "Substituir anúncio em AMP"
+
+msgid "Display on home"
+msgstr "Exibir em casa"
+
+msgid "Display on singular"
+msgstr "Exibir no singular"
+
+msgid "Display on archive"
+msgstr "Exibir no arquivo"
+
+msgid "Display on search"
+msgstr "Exibir na pesquisa"
+
+msgid "Display for logged in users"
+msgstr "Exibição para usuários logados"
+
+msgid "Display on AMP"
+msgstr "Exibir em AMP"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Alignment"
+msgstr "Alinhamento"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "- Disabled -"
+msgstr "- Desativado -"
+
+msgid "- Random ad -"
+msgstr "- Anúncio aleatório -"
+
+msgid "- Group -"
+msgstr "- Grupo -"
+
+msgid "- Don't override -"
+msgstr "- Não se sobreponha -"
+
+msgid "Edit Ad"
+msgstr "Editar anúncio"
+
+msgid "Create Ad"
+msgstr "Criar um anúncio"
+
+msgid "- All -"
+msgstr "- Tudo -"
+
+msgid "- None -"
+msgstr "- Nenhum -"
+
+msgid "Minimum"
+msgstr "Mínimo"
+
+msgid "Maximum"
+msgstr "Máximo"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Center"
+msgstr "Centralizar"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "px"
+msgstr "px"
+
+msgid "Patreon"
+msgstr "Patreon"
+
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+msgid "Compact"
+msgstr "Compactar"
+
+msgid "Full"
+msgstr "Total"
+
+msgid "Sponsored by"
+msgstr "Patrocinado por"
+
+msgid "How to disable?"
+msgstr "Como desativar?"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgctxt "Full Screen Vignette Close Button Label"
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Redirecting in %s second"
+msgid_plural "Redirecting in %s seconds"
+msgstr[0] "Redirecionando em %s segundo"
+msgstr[1] "Redirecionando em %s segundos"
+
+msgid "Become a Patron"
+msgstr "Torne-se um Patrono"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Page"
+msgstr "Página"
+
+msgctxt "Admin page label"
+msgid "AdAce, How to Disable Adblockers Page"
+msgstr "AdAce, como desativar a página Adblockers"
+
+msgctxt "AdBlocker detection status"
+msgid "AdAce plugin name rewrite required"
+msgstr "Reescrita do nome do plug-in AdAce necessária"
+
+msgctxt "AdBlocker detection status"
+msgid ""
+"The AdAce plugin's scripts have been blocked by an adblocker extension "
+"running in your browser. To use the AdAce plugin and all its modules, you "
+"have to rewrite plugin name. "
+msgstr ""
+"Os scripts do plug-in AdAce foram bloqueados por uma extensão do adblocker "
+"em execução no seu navegador. Para usar o plugin AdAce e todos os seus "
+"módulos, você precisa reescrever o nome do plugin."
+
+msgctxt "AdBlocker detection status"
+msgid "Rewrite plugin name"
+msgstr "Reescrever o nome do plug-in"
+
+msgctxt "AdBlocker detection status"
+msgid "Learn more about the problem"
+msgstr "Saiba mais sobre o problema"
+
+msgid "I use affiliate links"
+msgstr "Eu uso links afiliados"
+
+msgid "Like my blog?"
+msgstr "Gostou do meu blog?"
+
+msgid "Donate via Patreon to&nbsp;support me.<br />Thank You!"
+msgstr "Doe via Patreon para me apoiar.<br /> Obrigada!"
+
+msgid "Promote your Patreon page."
+msgstr "Promova sua página do Patreon."
+
+msgid "AdAce Patreon"
+msgstr "Ad Ace Patreon"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Shop the post"
+msgstr "Compre a postagem"
+
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+msgid "Loading collection preview..."
+msgstr "Carregando visualização da coleção..."
+
+msgid ""
+"WooCommerce plugin is required to render the [adace_shop_the_post] shortcode."
+msgstr ""
+"O plugin WooCommerce é necessário para renderizar o shortcode "
+"[adace_shop_the_post]."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Type:"
+msgstr "Modelo:"
+
+msgid "Embed Code"
+msgstr "Código embutido"
+
+msgid "WooCommerce Products"
+msgstr "Produtos WooCommerce"
+
+msgid "Supported services: %s"
+msgstr "Serviços suportados: %s"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Snax Item"
+msgstr "Item Snax"
+
+msgid "Snax Quiz"
+msgstr "Questionário Snax"
+
+msgid "Snax Poll"
+msgstr "Pesquisa Snax"
+
+msgid "Snax"
+msgstr "Snax"
+
+msgid "After X Snax Item's"
+msgstr "Após o item X Snax"
+
+msgid "Start after X snax items"
+msgstr "Iniciar após os itens X snax"
+
+msgid "Repeat after every X items"
+msgstr "Repita após cada X itens"
+
+msgid "0 to not repeat"
+msgstr "0 para não repetir"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Forum"
+msgstr "Fórum"
+
+msgid "Topic"
+msgstr "Tópico"
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "bbPress"
+msgstr "bbPress"
+
+msgid "Before X Topics"
+msgstr "Antes X Tópicos"
+
+msgid "Show before X topics"
+msgstr "Mostrar antes dos tópicos X"
+
+msgid "Type here before how many bbpress topics display slot."
+msgstr "Digite aqui antes de quantos tópicos do bbpress exibem o slot."
+
+msgid "Before X Replies"
+msgstr "Antes das respostas X"
+
+msgid "Show before X replies"
+msgstr "Mostrar antes de X responder"
+
+msgid "Type here before how many bbpress replies display slot."
+msgstr "Digite aqui antes de quantas respostas do bbpress exibem o slot."
+
+msgid "After X Comments"
+msgstr "Após X comentários"
+
+msgid "Start after X comments"
+msgstr "Iniciar após X comentários"
+
+msgid "Repeat after every X comments"
+msgstr "Repetir após cada X comentários"
+
+msgid "Featured Image"
+msgstr "Imagem em destaque"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "PHP Code"
+msgstr "Código PHP"
+
+msgid "Ad Type"
+msgstr "Tipo de anúncio"
+
+msgid "AdSense"
+msgstr "AdSense"
+
+msgid "Custom"
+msgstr "Personalizado"
+
+msgid "Do not use as a random ad"
+msgstr "Não use como um anúncio aleatório"
+
+msgid "Paste AdSense code to extract automatically"
+msgstr "Cole o código do AdSense para extrair automaticamente"
+
+msgid "Ad Slot ID"
+msgstr "ID do espaço de anúncio"
+
+msgid "Publisher ID"
+msgstr "ID do editor"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "Fixed size"
+msgstr "Tamanho fixo"
+
+msgid "Responsive"
+msgstr "Responsivo"
+
+msgid "Auto"
+msgstr "Automático"
+
+msgid "Fluid"
+msgstr "Fluido"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Rectangle"
+msgstr "Retângulo"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Add Image"
+msgstr "Adicionar imagem"
+
+msgid "Remove Image"
+msgstr "Remover imagem"
+
+msgid "Image HDPI"
+msgstr "Imagem HDPI"
+
+msgid "Link To"
+msgstr "Link para"
+
+msgctxt "Link Type Disabled Info"
+msgid "Activate %s plugin to use that option"
+msgstr "Ative o plug-in %s para usar essa opção"
+
+msgctxt "Link Type Disabled Info"
+msgid "WooCommerce product not selected. Go to the %s"
+msgstr "Produto WooCommerce não selecionado. Vá para o %s"
+
+msgctxt "Custom Ad Type"
+msgid "Custom Link"
+msgstr "Link personalizado"
+
+msgctxt "Custom Ad Type"
+msgid "Login Page or Popup"
+msgstr "Página de login ou pop-up"
+
+msgctxt "Custom Ad Type"
+msgid "Ad Free Product (WooCommerce)"
+msgstr "Produto sem anúncios (WooCommerce)"
+
+msgctxt "Custom Ad Type"
+msgid "Register page (Restrict Content Pro)"
+msgstr "Página de registro (Restrict Content Pro)"
+
+msgid "Custom Link"
+msgstr "Link personalizado"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Run code asynchronously"
+msgstr "Executar código de forma assíncrona"
+
+msgid ""
+"Uncheck if your ad to run requires page \"onLoad\" event. When unchecked, "
+"the \"Display on devices\" options below have no effect! Leave checked if "
+"you're not sure."
+msgstr ""
+"Desmarque se seu anúncio para ser executado requer o evento \"onLoad\" da "
+"página. Quando desmarcada, as opções \"Exibir em dispositivos\" abaixo não "
+"têm efeito! Deixe marcado se não tiver certeza."
+
+msgid "Disable on desktop"
+msgstr "Desativar na área de trabalho"
+
+msgid "Disable on tablet landscape"
+msgstr "Desativar na paisagem do tablet"
+
+msgid "Disable on tablet portrait"
+msgstr "Desativar no retrato do tablet"
+
+msgid "Disable on phone"
+msgstr "Desativar no telefone"
+
+msgid "Disable on AMP"
+msgstr "Desativar em AMP"
+
+msgid "Use cusom size for"
+msgstr "Use o tamanho personalizado para"
+
+msgid "phone"
+msgstr "telefone"
+
+msgid "tablet portrait"
+msgstr "tablet retrato"
+
+msgid "tablet landscape"
+msgstr "tablet paisagem"
+
+msgid "desktop"
+msgstr "Área de Trabalho"
+
+msgid "Disable all ad slots"
+msgstr "Desativar todos os espaços de anúncio"
+
+msgid "Disable ad widgets"
+msgstr "Desativar widgets de anúncios"
+
+msgid "Disable all ad shortcodes"
+msgstr "Desativar todos os códigos de acesso de anúncios"
+
+msgid "Disable ad slots:"
+msgstr "Desativar espaços de anúncio:"
+
+msgid "AdAce Ads"
+msgstr "Anúncios AdAce"
+
+msgid "Displays Google AdSense or any other ad."
+msgstr "Exibe o Google AdSense ou qualquer outro anúncio."
+
+msgid "Display title:"
+msgstr "Título da exibição:"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Esconder"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "Ads:"
+msgstr "Publicidades:"
+
+msgid "Group:"
+msgstr "Grupo:"
+
+msgctxt "post type general name"
+msgid "Ads"
+msgstr "Publicidades"
+
+msgctxt "post type singular name"
+msgid "Ad"
+msgstr "Anúncios"
+
+msgctxt "admin menu"
+msgid "Ads"
+msgstr "Publicidades"
+
+msgctxt "add new on admin bar"
+msgid "Ad"
+msgstr "Anúncios"
+
+msgctxt "book"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+msgid "Add New Ad"
+msgstr "Adicionar novo anúncio"
+
+msgid "New Ad"
+msgstr "Novo anúncio"
+
+msgid "View Ad"
+msgstr "Ver anúncio"
+
+msgid "All Ads"
+msgstr "Todos os anúncios"
+
+msgid "Search Ad's"
+msgstr "Anúncios de pesquisa"
+
+msgid "Parent Ad's:"
+msgstr "Anúncios pai:"
+
+msgid "No ad's found."
+msgstr "Nenhum anúncio encontrado."
+
+msgid "No ad's found in Trash."
+msgstr "Nenhum anúncio foi encontrado na lixeira."
+
+msgid "Description of these amazing ad's."
+msgstr "Descrição destes anúncios incríveis."
+
+msgctxt "taxonomy general name"
+msgid "Groups"
+msgstr "Grupos"
+
+msgctxt "taxonomy singular name"
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Search Groups"
+msgstr "Grupos de pesquisa"
+
+msgid "Popular Groups"
+msgstr "Grupos populares"
+
+msgid "All Groups"
+msgstr "Todos os grupos"
+
+msgid "Edit Group"
+msgstr "Editar grupo"
+
+msgid "Update Group"
+msgstr "Atualizar grupo"
+
+msgid "Add New Group"
+msgstr "Adicionar novo grupo"
+
+msgid "New Group Name"
+msgstr "Novo nome do grupo"
+
+msgid "Separate Groups with commas"
+msgstr "Grupos separados com vírgulas"
+
+msgid "Add or remove Groups"
+msgstr "Adicionar ou remover grupos"
+
+msgid "Choose from the most used Groups"
+msgstr "Escolha entre os Grupos mais usados"
+
+msgid "No Groups found."
+msgstr "Nenhum grupo encontrado."
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "In the middle of the content"
+msgstr "No meio do conteúdo"
+
+msgid "Wrap the text around the ad "
+msgstr "Enrole o texto ao redor do anúncio"
+
+msgid "After X Paragraphs"
+msgstr "Após X parágrafos"
+
+msgid "Show after X paragraphs"
+msgstr "Mostrar após X parágrafos"
+
+msgid "to End of Post if fewer paragraphs are found. "
+msgstr "para o fim da postagem se menos parágrafos forem encontrados."
+
+msgid "Slide Up"
+msgstr "Deslize para cima"
+
+msgid "Enable Slide Animation"
+msgstr "Ativar animação de slides"
+
+msgid "close"
+msgstr "Fechar"
+
+msgid "Before the last paragraph"
+msgstr "Antes do último parágrafo"
+
+msgid "Before Content"
+msgstr "Antes do conteúdo"
+
+msgid "Post content"
+msgstr "Publicar conteúdo"
+
+msgid "Global slots"
+msgstr "Slots globais"
+
+msgid "After the <!--more--> tag"
+msgstr "Após a tag <!--more-->"
+
+msgid "After X Images"
+msgstr "Após X Imagens"
+
+msgid "Show after X images"
+msgstr "Mostrar após X imagens"
+
+msgid "show after images wp-caption wrapper. "
+msgstr "mostre após as imagens wp-caption wrapper."
+
+msgid "Type here after how many images display slot."
+msgstr "Digite aqui depois de quantas imagens exibem o slot."
+
+msgid "Full Screen Vignette"
+msgstr "Vinheta em tela cheia"
+
+msgid "Close label"
+msgstr "Fechar etiqueta"
+
+msgid "Automatically close after X seconds"
+msgstr "Fechar automaticamente após X segundos"
+
+msgid "Display after every X pages"
+msgstr "Exibir após cada X páginas"
+
+msgctxt "Full Screen Vignette Close Label"
+msgid "Leave empty to use the default value"
+msgstr "Deixe em branco para usar o valor padrão"
+
+msgctxt "Full Screen Vignette Counter"
+msgid "Set to 0 to disable counting"
+msgstr "Defina como 0 para desabilitar a contagem"
+
+msgid "After Content"
+msgstr "Após o conteúdo"
+
+msgid "No data loaded."
+msgstr "Nenhum dado carregado."
+
+msgid "Nonce is incorrect."
+msgstr "Nonce está incorreto."
+
+msgid "User can't do this."
+msgstr "O usuário não pode fazer isso."
+
+msgid "Nothing to save, delete meta."
+msgstr "Nada para salvar, excluir meta."
+
+msgid "Saved!"
+msgstr "Salvou!"
+
+msgid "Save failed!"
+msgstr "Falha ao salvar!"
+
+msgid "Buy from here"
+msgstr "Compre daqui"
+
+msgid "Pins"
+msgstr "Alfinetes"
+
+msgid "AdAce Favourite Products"
+msgstr "Produtos favoritos do AdAce"
+
+msgid "Show in fancy way desirable products to Your visitors!"
+msgstr "Mostre de forma elegante produtos desejáveis para seus visitantes!"
+
+msgid "Get my must-haves"
+msgstr "Receba meus itens obrigatórios"
+
+msgid "Show affiliate disclosure"
+msgstr "Mostrar divulgação de afiliados"
+
+msgid "Embed Code:"
+msgstr "Código embutido:"
+
+msgid "Number of products to show"
+msgstr "Número de produtos a serem exibidos"
+
+msgid "Categories:"
+msgstr "Categorias:"
+
+msgid "Order by"
+msgstr "Pedido por"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Random"
+msgstr "Aleatório"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "Sponsor URL"
+msgstr "URL do patrocinador"
+
+msgid "The URL that sponsor links to."
+msgstr "O URL ao qual o patrocinador se vincula."
+
+msgid "Add Sponsor Logo Image"
+msgstr "Adicionar imagem do logotipo do patrocinador"
+
+msgid "Remove Sponsor Logo Image"
+msgstr "Remover imagem do logotipo do patrocinador"
+
+msgid "Upload here logo for this new sponsor."
+msgstr "Carregue aqui o logotipo deste novo patrocinador."
+
+msgid "Sponsor Logo"
+msgstr "Logotipo do patrocinador"
+
+msgctxt "taxonomy general name"
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+msgctxt "taxonomy singular name"
+msgid "Sponsor"
+msgstr "Patrocinador"
+
+msgid "Search Sponsors"
+msgstr "Pesquisar patrocinadores"
+
+msgid "Popular Sponsors"
+msgstr "Patrocinadores populares"
+
+msgid "All Sponsors"
+msgstr "Todos os patrocinadores"
+
+msgid "Edit Sponsor"
+msgstr "Editar patrocinador"
+
+msgid "Update Sponsor"
+msgstr "Atualizar patrocinador"
+
+msgid "Add New Sponsor"
+msgstr "Adicionar novo patrocinador"
+
+msgid "New Sponsor Name"
+msgstr "Nome do novo patrocinador"
+
+msgid "Separate sponsors with commas"
+msgstr "Separe os patrocinadores com vírgulas"
+
+msgid "Add or remove sponsors"
+msgstr "Adicionar ou remover patrocinadores"
+
+msgid "Choose from the most used sponsors"
+msgstr "Escolha entre os patrocinadores mais usados"
+
+msgid "No sponsors found."
+msgstr "Nenhum patrocinador encontrado."
+
+msgid "Discount"
+msgstr "Desconto"
+
+msgid "e.g. 25% OFF"
+msgstr "por exemplo. 25% DE DESCONTO"
+
+msgid "Coupon Code"
+msgstr "Código do cupom"
+
+msgid "e.g. BLACK_FRIDAY_25_OFF"
+msgstr "por exemplo. BLACK_FRIDAY_25_OFF"
+
+msgid "Valid From"
+msgstr "Válido de"
+
+msgid "Valid Until"
+msgstr "Válido até"
+
+msgctxt "post type general name"
+msgid "Coupons"
+msgstr "Cupons"
+
+msgctxt "post type singular name"
+msgid "Coupon"
+msgstr "Cupom"
+
+msgctxt "admin menu"
+msgid "Coupons"
+msgstr "Cupons"
+
+msgctxt "add new on admin bar"
+msgid "Coupon"
+msgstr "Cupom"
+
+msgctxt "coupon"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+msgid "Add New Coupon"
+msgstr "Adicionar Novo Cupom"
+
+msgid "New Coupon"
+msgstr "Novo cupom"
+
+msgid "Edit Coupon"
+msgstr "Editar cupom"
+
+msgid "Show Coupon"
+msgstr "Mostrar cupom"
+
+msgid "All Coupons"
+msgstr "Todos os cupons"
+
+msgid "Look for coupons"
+msgstr "Procure cupons"
+
+msgid "Parent coupon"
+msgstr "Cupom pai"
+
+msgid "Coupon not found"
+msgstr "Cupom não encontrado"
+
+msgid "Coupon not found in trash"
+msgstr "Cupom não encontrado na lixeira"
+
+msgid "Affiliate coupons"
+msgstr "Cupons de afiliados"
+
+msgid "Copied"
+msgstr "Copiado"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Nofollow Link"
+msgstr "Link Nofollow"
+
+msgctxt "post type general name"
+msgid "Links"
+msgstr "Links"
+
+msgctxt "post type singular name"
+msgid "Links"
+msgstr "Links"
+
+msgctxt "admin menu"
+msgid "Links"
+msgstr "Links"
+
+msgctxt "add new on admin bar"
+msgid "Link"
+msgstr "Link"
+
+msgctxt "link"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+msgid "Add New Link"
+msgstr "Adicionar novo link"
+
+msgid "New Link"
+msgstr "Novo link"
+
+msgid "Edit Link"
+msgstr "Editar link"
+
+msgid "Show Link"
+msgstr "Mostrar link"
+
+msgid "All Links"
+msgstr "Todos os links"
+
+msgid "Look for links"
+msgstr "Procure por links"
+
+msgid "Parent link"
+msgstr "Link pai"
+
+msgid "Link not found"
+msgstr "Link não encontrado"
+
+msgid "Link not found in trash"
+msgstr "Link não encontrado na lixeira"
+
+msgid "Promoted links on the internet."
+msgstr "Links promovidos na internet."
+
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Categorias"
+
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Search Categories"
+msgstr "Pesquisar categorias"
+
+msgid "Popular Categories"
+msgstr "Categorias populares"
+
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+msgid "Edit Category"
+msgstr "Editar categoria"
+
+msgid "Update Category"
+msgstr "Atualizar categoria"
+
+msgid "Add New Category"
+msgstr "Adicionar nova categoria"
+
+msgid "New Category Name"
+msgstr "Nome da nova categoria"
+
+msgid "Separate categories with commas"
+msgstr "Separe as categorias com vírgulas"
+
+msgid "Add or remove categories"
+msgstr "Adicionar ou remover categorias"
+
+msgid "Choose from the most used categories"
+msgstr "Escolha entre as categorias mais usadas"
+
+msgid "No categories found."
+msgstr "Nenhuma categoria encontrada."
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "AdAce Links"
+msgstr "Links AdAce"
+
+msgid "Widget that display links in nice fashion."
+msgstr "Widget que exibe links de maneira agradável."
+
+msgid "Favourite links"
+msgstr "Links favoritos"
+
+msgid "Simple list, don't show featured image."
+msgstr "Lista simples, não mostra imagem em destaque."
+
+msgid "Use semi-transparent images"
+msgstr "Use imagens semitransparentes"
+
+msgid "Number of highlighted links."
+msgstr "Número de links destacados."
+
+msgid "Shop The Post Collection"
+msgstr "Compre a Coleção Postal"
+
+msgid "X"
+msgstr "X"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Insert collection"
+msgstr "Inserir coleção"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "Drag and drop to reorder items."
+msgstr "Arraste e solte para reordenar os itens."
+
+msgid "Filter by category"
+msgstr "Filtrar por categoria"
+
+msgid "All categories"
+msgstr "Todas as categorias"
+
+msgid "Search Products"
+msgstr "Pesquisar Produtos"
+
+msgid "Product Details"
+msgstr "Detalhes do produto"
+
+msgid "selected"
+msgstr "selecionado"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Create a new collection"
+msgstr "Criar uma nova coleção"
+
+msgid "Back to edit"
+msgstr "Voltar á editar"
+
+msgid "Insert"
+msgstr "Inserir"
+
+msgid "Close media panel"
+msgstr "Fechar painel de mídia"
+
+msgid "Create Collection"
+msgstr "Criar coleção"
+
+msgid "&#8592; Cancel Collection"
+msgstr "← Cancelar Coleta"
+
+msgid "Edit Collection"
+msgstr "Editar coleção"
+
+msgid "Add to Collection"
+msgstr "Adicionar a coleção"
+
+msgid "Select Product"
+msgstr "Selecionar produto"
+
+msgid "Deselect"
+msgstr "Desmarcar"
+
+msgid "AdAce Ad"
+msgstr "Anúncio AdAce"
+
+msgid "Ad ID"
+msgstr "ID do anúncio"
+
+msgid "Align"
+msgstr "Alinhar"
+
+msgctxt "align"
+msgid "none"
+msgstr "Nenhum"
+
+msgctxt "align"
+msgid "center"
+msgstr "Centralizar"
+
+msgctxt "align"
+msgid "left"
+msgstr "Esquerda"
+
+msgctxt "align"
+msgid "right"
+msgstr "Direita"
+
+msgid "Ad name"
+msgstr "Nome do anúncio"
+
+msgid "Ad manager"
+msgstr "Gerenciador de anúncios"
+
+msgid "bringthepixel"
+msgstr "bringthepixel"
+
+msgid "http://www.bringthepixel.com"
+msgstr "http://www.bringthepixel.com"
